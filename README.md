@@ -6,15 +6,15 @@ Here's a bit more about me:
 _______________________________________________________________________________
 👨‍💻 About Me:
 _______________________________________________________________________________
-🏫Currantly learning how to Code with C#
+🏫Currently learning how to code with C#
 
-📚Busy in Scool
+📚Busy in school
 
-💻interessted in new Technologies
+💻Interessted in new technologies
 
 🤖and Ai's
 _______________________________________________________________________________
-💼What I'm currantly working on:
+💼What I'm currently working on:
 _______________________________________________________________________________
 📈expanding my knowledge
 
@@ -24,7 +24,7 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 👥I like working in a group
 
-📉But my C# level is currantly realy low because I'm learning
+📉But my C# level is currently really low because I'm learning
 _______________________________________________________________________________
 Thank you for visiting my GitHub profile! 🌟
 <!---
